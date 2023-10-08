@@ -18,3 +18,7 @@ class my_room:
     def oldPerson(self):
         print("You are also welcome even though you are old")
 
+person_one=my_room("big","red",2019,"nabil")
+
+print(person_one.built)
+
