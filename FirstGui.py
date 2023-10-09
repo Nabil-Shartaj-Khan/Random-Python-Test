@@ -88,6 +88,8 @@ backspace_button=Button(
     command=backspace,
     relief=RAISED 
 )
+#entry,check,list,message,textbox
+
 #packing
 app_label.pack()
 button_app.pack() 
